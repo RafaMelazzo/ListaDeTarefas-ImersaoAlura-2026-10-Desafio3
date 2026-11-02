@@ -1,0 +1,34 @@
+[
+  {
+    "id": "a17f5e4b-bf40-4ea7-8cfa-f4b2e11bed58",
+    "titulo": "Concluir Desafio 3 da Imersão Alura",
+    "concluida": false,
+    "criada_em": "2026-11-02T09:49",
+    "concluida_em": null,
+    "ordem": 0
+  },
+  {
+    "id": "8c0a73fe-e283-4573-95bb-7bac12b0f04c",
+    "titulo": "Estudas C#",
+    "concluida": false,
+    "criada_em": "2026-11-02T09:50",
+    "concluida_em": null,
+    "ordem": 1
+  },
+  {
+    "id": "b3cad9d5-42a6-4c14-a021-4942945bdcd4",
+    "titulo": "Estudar Agentes AI",
+    "concluida": false,
+    "criada_em": "2026-11-02T09:50",
+    "concluida_em": null,
+    "ordem": 2
+  },
+  {
+    "id": "39a2b672-539a-47e4-be60-c5712a6840fd",
+    "titulo": "Esturas aulas da Imersão Alura",
+    "concluida": true,
+    "criada_em": "2026-11-02T09:49",
+    "concluida_em": "2026-11-02T09:49",
+    "ordem": 0
+  }
+]
